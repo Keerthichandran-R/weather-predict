@@ -1,0 +1,5 @@
+Timestamp,Temperature_C,Humidity_%,Condition
+2025-08-27 08:00,30.5,70,Sunny
+2025-08-27 12:00,32.0,65,Partly Cloudy
+2025-08-27 16:00,31.2,68,Cloudy
+2025-08-27 20:00,28.7,75,Clear
