@@ -1,15 +1,10 @@
-# weather-predict
+
 # Weather Logger
 
 This project is a simple **weather logging system** that records daily
 weather information (temperature, humidity, wind speed, condition) into
 a CSV file.
 
-## 📂 Files in this project
-
--   `weather_log.csv` → Sample weather data (Temperature, Humidity, Wind
-    Speed, Condition, Date).
--   `README.md` → Documentation and usage instructions.
 
 ## 📊 Sample Data
 
