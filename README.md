@@ -6,15 +6,6 @@ weather information (temperature, humidity, wind speed, condition) into
 a CSV file.
 
 
-## 📊 Sample Data
-
-  ---------------------------------------------------------------------------
-  Date         Temperature (°C)  Humidity (%)  Wind Speed (km/h)  Condition
-  ------------ ----------------- ------------- ------------------ -----------
-  2025-08-27   32                65            12                 Sunny
-
-  2025-08-28   29                72            10                 Cloudy
-  ---------------------------------------------------------------------------
 
 ## 🚀 How to Use
 
