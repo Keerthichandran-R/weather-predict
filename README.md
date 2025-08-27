@@ -25,4 +25,22 @@ a CSV file.
 
 ------------------------------------------------------------------------
 
-Made with ❤️ for learning and practice.
+📊 Data Preparation and Shaping Project
+
+Example raw_data.csv (before cleaning)
+Temp	Hum	Condition
+30	70	Sunny
+32	75	Rainy
+28	80	NaN
+30	NaN	Sunny
+30	70	Sunny
+
+Example cleaned_data.csv (after shaping)
+Temperature	Humidity	Condition	FeelsLike	Condition_encoded
+30.0	70.0	Sunny	27.0	1
+32.0	75.0	Rainy	29.5	0
+28.0	80.0	Sunny	26.0	1
+30.0	75.0	Sunny	27.5	1
+
+
+
